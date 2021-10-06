@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Languages:** catalan, spanish, english, french, and danish. _Soon learning dutch_
+
+**Programming and softwares:** matlab, gurobi, python, GAMMS
