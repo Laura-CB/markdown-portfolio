@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Hello World Repository](https://github.com/Laura-CB/hello-world)
